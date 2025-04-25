@@ -1,0 +1,14 @@
+# Основные библиотеки
+python-telegram-bot==20.6
+langchain==0.1.16
+sentence-transformers==2.6.1
+transformers==4.39.3
+numpy==1.26.4
+pydantic==2.6.4
+typing_extensions==4.10.0
+langchain-huggingface
+langchain-chroma
+# Дополнительно (опционально)
+accelerate==0.28.0
+bitsandbytes==0.43.0
+redis==5.0.3
